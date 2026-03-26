@@ -1,21 +1,59 @@
-# 👋 Hi, I’m Shikhar Singh (@shikhar3dev)  
-## 🚀 About Me  
-- 👀 I’m interested in **Machine Learning, Backend Development, UI/UX Design, and Competitive Coding.**  
-- 🌱 I’m currently learning **Machine Learning, Java, and DSA.**  
-- 💼 I’m looking to collaborate on **AI projects, backend systems, and open-source contributions.**  
-- 📫 How to reach me:  
-  - Email: [shikhar71615@gmail.com](mailto:shikhar71615@gmail.com)  
-  - LinkedIn: [linkedin.com/in/shikhar3dev](#) *(Add your actual LinkedIn profile link)*  
-  - GitHub: [github.com/shikhar3dev](https://github.com/shikhar3dev)  
+# 👋 Hi, I'm Shikhar Singh
 
-## 🛠 Tech Stack  
-- **Languages:** Python, Java, JavaScript  
-- **Backend:** Node.js, Django, Flask  
-- **Frontend:** React.js, HTML, CSS  
-- **Database:** MySQL, MongoDB  
-- **Tools:** Git, Docker, Postman  
+🚀 **Aspiring AI Engineer | Backend Developer | Open Source Contributor**
 
-## 📊 Stats  
-![Shikhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shikhar3dev&show_icons=true&theme=radical)  
+---
 
-⚡ **Fun fact:** I recently started vlogging and exploring AI-powered projects!  
+## 🔥 What I'm Building
+
+* 🤖 AI-powered Resume Builder (Monetizable SaaS)
+* 🧠 Personal AI Assistant (JARVIS-style system)
+* 🏥 AI Medical Assistant (in progress)
+
+---
+
+## 💻 Tech Stack
+
+**Languages:** Java, Python, JavaScript
+**Backend:** Node.js, Flask, Django
+**Frontend:** React.js, HTML, CSS
+**Database:** MongoDB, MySQL
+**Tools:** Git, Docker, Postman
+
+---
+
+## 🚀 Achievements
+
+* 🦈 GitHub Pull Shark Achievement
+* ✅ First Open Source PR merged (Kana Dojo)
+* 📈 190+ Contributions in last year
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AI Resume Builder
+
+* Generate ATS-friendly resumes using AI
+* Export to PDF + customizable templates
+
+### 🔹 AI Medical Assistant
+
+* Symptom-based suggestions
+* Future: voice + camera integration
+
+### 🔹 DSA Practice (Java)
+
+* LeetCode solutions with clean logic
+* Focused on interview preparation
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: (PUT REAL LINK HERE)
+* 📧 Email: [shikhar71615@gmail.com](mailto:shikhar71615@gmail.com)
+
+---
+
+⚡ *Currently focused on building real-world AI products & cracking top internships.*
